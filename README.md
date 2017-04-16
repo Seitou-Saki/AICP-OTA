@@ -1,0 +1,3 @@
+# AICP-OTA
+
+自ビルドAICP用OTA
