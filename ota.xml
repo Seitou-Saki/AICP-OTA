@@ -10,7 +10,7 @@
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog"></ChangelogUrl>
+                description="View Changelog">http://saki-sss.blogspot.jp/</ChangelogUrl>
             <SlimGappsUrl
             	id="gapps"
             	title="Gapps"
