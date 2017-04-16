@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <yuga>
-            <Filename>test-20161008-yuga.zip</Filename>
+            <Filename>aicp_yuga_n-12.1-UNOFFICIAL-20170416.zip</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Download Unofficial AICP for Xperia Z (yuga)">https://www.androidfilehost.com/?w=files&amp;flid=121168</RomUrl>
+                description="Download Unofficial AICP for Xperia Z (yuga)">https://www.androidfilehost.com/?w=files&amp;flid=172030</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
