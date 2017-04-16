@@ -7,10 +7,6 @@
                 id="rom"
                 title="ROM"
                 description="Download Unofficial AICP for Xperia Z (yuga)">https://www.androidfilehost.com/?w=files&amp;flid=172030</RomUrl>
-            <ChangelogUrl
-                id="changelog"
-                title="Changelog"
-                description="View Changelog">http://saki-sss.blogspot.jp/</ChangelogUrl>
             <SlimGappsUrl
             	id="gapps"
             	title="Gapps"

@@ -8,8 +8,8 @@
 #
 ota_url=https://raw.githubusercontent.com/Seitou-Saki/AICP-OTA/master/ota.xml
 release_type=Stable
-device_name=ro.rr.device
- 
+device_name=ro.aicp.device
+
 #
 # VERSION
 #
@@ -17,9 +17,9 @@ device_name=ro.rr.device
 # A version source can be a 'property key' from build.prop or a 'uname -r' command line
 # If a version is a number, leave the version_format empty. Otherwise, provide the date format
 #
-# Example with a property key 'ro.rr.version' : Parse the date 20150426 from 'ResurrectionRemix-M-v5.x.x-20150426-bacon'
+# Example with a property key 'ro.modversion' : Parse the date 20170205 from 'aicp_oneplus3_n-12.1-mordiford-20170205'
 #
-# Version source: ro.rr.version
+# Version source: ro.modversion
 # Version delimiter: -
 # Version position: 3 (zero based)
 # Version format: yyyyMMdd
@@ -33,7 +33,7 @@ device_name=ro.rr.device
 #
 # uname -r will only be needed if using the app for kernels, not required here
 
-version_source=ro.rr.version
+version_source=ro.modversion
 version_delimiter=-
 version_position=3
 version_format=yyyyMMdd
