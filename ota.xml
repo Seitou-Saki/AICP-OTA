@@ -12,5 +12,16 @@
             	title="Gapps"
             	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
         </yuga>
+        <P024>
+            <Filename></Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download Unofficial AICP for ZenPad 8.0 Z380KL (P024)">https://www.androidfilehost.com/?w=files&amp;flid=136181</RomUrl>
+            <SlimGappsUrl
+            	id="gapps"
+            	title="Gapps"
+            	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+        </P024>
     </Stable>
 </SlimOTA>
