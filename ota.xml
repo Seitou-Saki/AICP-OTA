@@ -23,5 +23,16 @@
             	title="Gapps"
             	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
         </P024>
+        <dlxj>
+            <Filename>aicp_dlxj_n-12.1-UNOFFICIAL-20170426.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download Unofficial AICP for HTC J butterfly HTL21 (dlxj)">https://www.androidfilehost.com/?w=files&amp;flid=175212</RomUrl>
+            <SlimGappsUrl
+            	id="gapps"
+            	title="Gapps"
+            	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+        </dlxj>
     </Stable>
 </SlimOTA>
