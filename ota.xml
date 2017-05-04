@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <yuga>
-            <Filename>aicp_yuga_n-12.1-UNOFFICIAL-20170427.zip</Filename>
+            <Filename>aicp_yuga_n-12.1-UNOFFICIAL-20170504.zip</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
@@ -13,7 +13,7 @@
             	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
         </yuga>
         <P024>
-            <Filename>aicp_P024_n-12.1-UNOFFICIAL-20170426.zip</Filename>
+            <Filename>aicp_P024_n-12.1-UNOFFICIAL-20170504.zip</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
@@ -24,7 +24,7 @@
             	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
         </P024>
         <dlxj>
-            <Filename>aicp_dlxj_n-12.1-UNOFFICIAL-20170426.zip</Filename>
+            <Filename>aicp_dlxj_n-12.1-UNOFFICIAL-20170504.zip</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
