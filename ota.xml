@@ -34,5 +34,16 @@
             	title="Gapps"
             	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
         </dlxj>
+        <m7wlj>
+            <Filename>aicp_m7wlj_n-12.1-UNOFFICIAL-20170504.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download Unofficial AICP for HTC J One HTL22 (m7wlj)">https://www.androidfilehost.com/?w=files&amp;flid=178154&amp;sort_by=date&amp;sort_dir=DESC</RomUrl>
+            <SlimGappsUrl
+            	id="gapps"
+            	title="Gapps"
+            	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+        </m7wlj>
     </Stable>
 </SlimOTA>
